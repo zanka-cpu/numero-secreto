@@ -1,6 +1,10 @@
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 40;
 >>>>>>> de1d17f19fedca8fdfbf609f2efae0786d5e8ef5
+=======
+let numeroLimite = 10;
+>>>>>>> parent of 2521988 (alterando limite para 100)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
