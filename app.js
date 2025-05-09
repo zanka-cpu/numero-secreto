@@ -1,6 +1,16 @@
 let listaDeNumerosSorteados = [];
 <<<<<<< HEAD
 <<<<<<< HEAD
+let numeroLimite = 35;
+=======
+<<<<<<< HEAD
+let numeroLimite = 50;
+=======
+let numeroLimite = 45;
+>>>>>>> de1d17f19fedca8fdfbf609f2efae0786d5e8ef5
+>>>>>>> 71c8c860b6be2bd0564b75c2371753d7332e1eb4
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 let numeroLimite = 40;
 >>>>>>> de1d17f19fedca8fdfbf609f2efae0786d5e8ef5
@@ -21,6 +31,7 @@ let numeroLimite = 45;
 
 let numeroLimite = 35;
 >>>>>>> d0f885890b7e84f844145e017a7b8857caddaf68
+>>>>>>> e1c82a5b0d4cf84e910e224b907e87d12ffed35b
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
